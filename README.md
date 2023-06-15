@@ -1,5 +1,9 @@
 # 💫 About Me:
-I currently have my programming work venture, we do both professional software and programming work for university students. I am currently a software development technologist, I am studying development courses at platzi.<br>If you need any of my services contact me! ⚡
+I currently have my programming work venture,
+we do both professional software and programming work for university students.
+I am currently a software development technologist,
+I am studying development courses at platzi.<br>
+If you need any of my services contact me! ⚡
 
 
 ## 🌐 Socials:
