@@ -1,11 +1,14 @@
-# 💫 I´m Daniel Puentes:
-I currently have my programming work venture,<br> we do both professional software <br>and programming work for university students. <br>I am currently a software development technologist,<br>I am studying development courses at platzi.<br>If you need any of my services contact me! ⚡
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/trabajos.de.programacion/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daniel-josé-puentes-marín-38a044201/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@trabajosdeprogramacion) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@DaniTechDev) 
 
-# 💻 Tech Stack:
+# 💫 I´m Daniel Puentes:
+Application Support Analyst | 2.5+ years resolving incidents in C#, .NET, SQL Server & AWS | Root-cause troubleshooting across app, DB & infra layers
+<br>If you need any of my services contact me! ⚡
+
+
+
+
+
 # 💻 Tech Stack:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Visual Basic](https://img.shields.io/badge/Visual%20Basic-004880?style=for-the-badge&logo=visualstudio&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
