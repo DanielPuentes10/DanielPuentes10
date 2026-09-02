@@ -10,57 +10,60 @@ I currently have my programming work venture,<br> we do both professional softwa
 
 
 <div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
-
-<table align="left" >
+<h2>Algunos proyectos👨🏻‍💻</h2>
+<table align="left">
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.youtube.com/watch?v=HAm7Psr3sTk&t=1507s" title="Go to Source">
-       <img align="center" width=100% src="https://github.com/DanielPuentes10/DanielPuentes10/issues/1#issue-5318504265"   alt="VIDEO" />
-        </a>
-      </p>
+      <a href="https://www.youtube.com/watch?v=HAm7Psr3sTk&t=1507s" title="Go to Source">
+        <img align="center" width="100%" src="https://img.youtube.com/vi/HAm7Psr3sTk/hqdefault.jpg" alt="VIDEO" />
+      </a>
+    </p>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=HAm7Psr3sTk&t=1507s" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech"  /></a>
-  
-           
-</td>
-<td width="25%" align="center">
-    <p align="center">
-     <a href="https://www.youtube.com/watch?v=TJnP0xROCms" title="Go to Source">
-        <img align="center" width=100% src="https://github.com/DanielPuentes10/DanielPuentes10/issues/1#issue-5318504265"   alt="VIDEO" /></a>
-      </p>
-    <p align="center">
-        <a href="https://www.youtube.com/watch?v=TJnP0xROCms" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech"  /></a>
-    
-    </p>       
-</td>
-  
+      <a href="https://www.youtube.com/watch?v=HAm7Psr3sTk&t=1507s" target="blank">
+        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech" />
+      </a>
+    </p>
+  </td>
   <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.youtube.com/watch?v=w6YWT95cV6w" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
-      </p>
+      <a href="https://www.youtube.com/watch?v=TJnP0xROCms" title="Go to Source">
+        <img align="center" width="100%" src="https://img.youtube.com/vi/TJnP0xROCms/hqdefault.jpg" alt="VIDEO" />
+      </a>
+    </p>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=w6YWT95cV6w" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech"  /></a>
-     
-    </p>       
-</td>
-
-   <td width="25%" align="center">
+      <a href="https://www.youtube.com/watch?v=TJnP0xROCms" target="blank">
+        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech" />
+      </a>
+    </p>
+  </td>
+  <td width="25%" align="center">
     <p align="center">
-     <a href="https://www.youtube.com/watch?v=LTRO53Ks-eA" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" /></a>
-      </p>
+      <a href="https://www.youtube.com/watch?v=w6YWT95cV6w" title="Go to Source">
+        <img align="center" width="100%" src="https://img.youtube.com/vi/w6YWT95cV6w/hqdefault.jpg" alt="VIDEO" />
+      </a>
+    </p>
     <p align="center">
-        <a href="https://www.youtube.com/watch?v=LTRO53Ks-eA" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech"  />
-    </p>       
-</td>
-  
+      <a href="https://www.youtube.com/watch?v=w6YWT95cV6w" target="blank">
+        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech" />
+      </a>
+    </p>
+  </td>
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://www.youtube.com/watch?v=LTRO53Ks-eA" title="Go to Source">
+        <img align="center" width="100%" src="https://img.youtube.com/vi/LTRO53Ks-eA/hqdefault.jpg" alt="VIDEO" />
+      </a>
+    </p>
+    <p align="center">
+      <a href="https://www.youtube.com/watch?v=LTRO53Ks-eA" target="blank">
+        <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech" />
+      </a>
+    </p>
+  </td>
 </tr>
 </table>
-
- </div>
+</div>
 <br>
 <br><br>
 <br>
