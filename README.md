@@ -20,7 +20,7 @@ I currently have my programming work venture,<br> we do both professional softwa
         <img align="center" width="100%" src="https://img.youtube.com/vi/HAm7Psr3sTk/hqdefault.jpg" alt="VIDEO" />
       </a>
     </p>
-    <p align="center"><b>Hacking a redes WiFi</b></p>
+    <p align="center"><sub><b>Hacking a redes WiFi</b></sub></p>
     <p align="center">
       <a href="https://www.youtube.com/watch?v=HAm7Psr3sTk&t=1507s" target="blank">
         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech" />
@@ -33,8 +33,7 @@ I currently have my programming work venture,<br> we do both professional softwa
         <img align="center" width="100%" src="https://img.youtube.com/vi/TJnP0xROCms/hqdefault.jpg" alt="VIDEO" />
       </a>
     </p>
-    <p align="center"><b>
-sniffing de aviones con RTL-SDR</b></p>
+    <p align="center"><sub><b>Sniffing de aviones con RTL-SDR</b></sub></p>
     <p align="center">
       <a href="https://www.youtube.com/watch?v=TJnP0xROCms" target="blank">
         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech" />
@@ -47,7 +46,7 @@ sniffing de aviones con RTL-SDR</b></p>
         <img align="center" width="100%" src="https://img.youtube.com/vi/w6YWT95cV6w/hqdefault.jpg" alt="VIDEO" />
       </a>
     </p>
-    <p align="center"><b>Sistema de Votaciones en C# | base de datos Sql Server |</b></p>
+    <p align="center"><sub><b>Sistema de Votaciones en C# | base de datos Sql Server</b></sub></p>
     <p align="center">
       <a href="https://www.youtube.com/watch?v=w6YWT95cV6w" target="blank">
         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech" />
@@ -60,8 +59,7 @@ sniffing de aviones con RTL-SDR</b></p>
         <img align="center" width="100%" src="https://img.youtube.com/vi/LTRO53Ks-eA/hqdefault.jpg" alt="VIDEO" />
       </a>
     </p>
-    <p align="center"><b>
-Struct C++ Explicación</b></p>
+    <p align="center"><sub><b>Struct C++ Explicación</b></sub></p>
     <p align="center">
       <a href="https://www.youtube.com/watch?v=LTRO53Ks-eA" target="blank">
         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech" />
