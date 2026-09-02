@@ -17,7 +17,7 @@ I currently have my programming work venture,<br> we do both professional softwa
   <td width="25%" align="center">
     <p align="center">
      <a href="https://www.youtube.com/watch?v=HAm7Psr3sTk&t=1507s" title="Go to Source">
-        <img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/smsgateway.webp"   alt="VIDEO" /></a>
+        </a>
       </p>
     <p align="center">
         <a href="https://www.youtube.com/watch?v=HAm7Psr3sTk&t=1507s" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech"  /></a>
