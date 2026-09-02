@@ -14,7 +14,7 @@ Application Support Analyst | 2.5+ years resolving incidents in C#, .NET, SQL Se
 
 
 <div id="proyectos">
-<h2>Algunos Proyectos👨</h2>
+<h2>Some Proyects👨</h2>
 <table align="left">
 <tr border="none">
   <td width="25%" align="center">
