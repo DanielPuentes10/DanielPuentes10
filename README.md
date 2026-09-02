@@ -60,7 +60,20 @@ I currently have my programming work venture,<br> we do both professional softwa
 </table>
 
  </div>
+<br>
+<br><br>
+<br>
+<br><br><br>
+<br><br>
 
+
+<h2>GitHub :octocat:</h2>
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="left">
+<tr border="none">
+<td width="60%" align="center">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DanielPuentes10&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
