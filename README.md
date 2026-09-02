@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I´m Daniel Puentes:
 I currently have my programming work venture,<br> we do both professional software <br>and programming work for university students. <br>I am currently a software development technologist,<br>I am studying development courses at platzi.<br>If you need any of my services contact me! ⚡
 
 
