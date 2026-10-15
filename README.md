@@ -64,7 +64,7 @@ Application Support Analyst | 2.5+ years resolving incidents in C#, .NET, SQL Se
     </p>
     <p align="center"><sub><b>Chat en vivo sin internet con ESP 32 Y LoRa (RA-02)</b></sub></p>
     <p align="center">
-      <a href="https://www.youtube.com/watch?v=LTRO53Ks-eA](https://youtu.be/hLj4imr6CqA" target="blank">
+      <a href="https://www.youtube.com/watch?v=hLj4imr6CqA" target="blank">
         <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@DaniTech" />
       </a>
     </p>
