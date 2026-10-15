@@ -58,8 +58,8 @@ Application Support Analyst | 2.5+ years resolving incidents in C#, .NET, SQL Se
   </td>
   <td width="25%" align="center">
     <p align="center">
-      <a href="https://www.youtube.com/watch?v=LTRO53Ks-eA" title="Go to Source">
-        <img align="center" width="100%" src="https://img.youtube.com/vi/LTRO53Ks-eA/hqdefault.jpg" alt="VIDEO" />
+      <a href="https://www.youtube.com/watch?v=hLj4imr6CqA" title="Go to Source">
+        <img align="center" width="100%" src="https://img.youtube.com/vi/hLj4imr6CqA/maxresdefault.jpg" alt="VIDEO" />
       </a>
     </p>
     <p align="center"><sub><b>Chat en vivo sin internet con ESP 32 Y LoRa (RA-02)</b></sub></p>
